@@ -1,0 +1,21 @@
+h1 {
+    color: deepskyblue;
+}
+
+.header {
+    background-color: wheat;
+    display: flex;
+    justify-content: space-between;
+}
+
+.godsmenu {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.tutorials {
+    background-color: rgb(156, 248, 228);
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
